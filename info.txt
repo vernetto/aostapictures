@@ -1,0 +1,12 @@
+https://console.developers.google.com/apis/dashboard?project=aosta-1504347246310&authuser=0&duration=PT1H
+
+https://maps.googleapis.com/maps/api/staticmap?maptype=satellite&center=45.7358047,7.3053286&zoom=20&size=1024x768&key=AIzaSyCB0VNcdcs7FPtJLIJhg1u8IyF0THTDsGg
+
+North-West corner 45.741826, 7.301055
+South West corner 45.728826, 7.301055 
+South-East corner 45.728826, 7.351055
+North-East corner 45.741826, 7.351055 
+
+Latitide diff = 0.013
+Longitude diff = 0.04
+
