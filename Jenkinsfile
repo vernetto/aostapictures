@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('pvstageone') {
       steps {
-        sh 'ls /home/centos'
+        sh 'ls /home/jenkins'
       }
     }
   }
